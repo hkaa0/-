@@ -1,21 +1,18 @@
-# 🛠 常见问题
+---
+description: 五叶小铺TG通知频道 @hkaa0_shop
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-{% content-ref url="chang-jian-wen-ti/guan-yu-zi-xun-ke-fu.md" %}
-[guan-yu-zi-xun-ke-fu.md](chang-jian-wen-ti/guan-yu-zi-xun-ke-fu.md)
-{% endcontent-ref %}
+# 🍁 帮助中心
 
-{% content-ref url="chang-jian-wen-ti/zhi-fu-wen-ti.md" %}
-[zhi-fu-wen-ti.md](chang-jian-wen-ti/zhi-fu-wen-ti.md)
-{% endcontent-ref %}
-
-{% content-ref url="chang-jian-wen-ti/ru-he-cha-xun-ding-dan.md" %}
-[ru-he-cha-xun-ding-dan.md](chang-jian-wen-ti/ru-he-cha-xun-ding-dan.md)
-{% endcontent-ref %}
-
-{% content-ref url="chang-jian-wen-ti/guan-yu-ren-gong-fa-huo.md" %}
-[guan-yu-ren-gong-fa-huo.md](chang-jian-wen-ti/guan-yu-ren-gong-fa-huo.md)
-{% endcontent-ref %}
-
-{% content-ref url="chang-jian-wen-ti/guan-yu-shou-hou.md" %}
-[guan-yu-shou-hou.md](chang-jian-wen-ti/guan-yu-shou-hou.md)
-{% endcontent-ref %}
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://hkaa0.shop">五叶小铺</a></p></figcaption></figure>
