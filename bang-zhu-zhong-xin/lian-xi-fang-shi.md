@@ -2,10 +2,6 @@
 
 **售前咨询：**[**@wuyexp**](https://t.mewuyexp)
 
-**twitter:** [**@wyxpu**](https://twitter.com/wyxpu)
-
-
-
 **售后专属** [**@KFSH0\_bot**](https://t.me/KFSH0\_bot)
 
 **如果不能及时回复不要急  耐心等待** &#x20;
