@@ -19,7 +19,7 @@
   * [Page 6](no/page-6.md)
   * [Page 5](no/page-5.md)
   * [Page 4](no/page-4.md)
-  * [TG-Telegram 纸飞机电报登录教程](no/tgtelegram-zhi-fei-ji-dian-bao-deng-lu-jiao-cheng.md)
+  * [TG-Telegram 纸飞机电报登录教程](no/page.md)
   * [TG-Telegram API接码链接注册教程](no/tgtelegram-api-jie-ma-lian-jie-zhu-ce-jiao-cheng.md)
   * [TG纸飞机电报-telegram养号注意事项](no/tg-zhi-fei-ji-dian-bao-telegram-yang-hao-zhu-yi-shi-xiang.md)
   * [官方Telegram下载|代理软件|翻墙工具](no/guan-fang-telegram-xia-zai-dai-li-ruan-jian-fan-qiang-gong-ju.md)
