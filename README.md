@@ -1,5 +1,5 @@
 ---
-description: 五叶小铺TG通知频道 @hkaa0_shop
+description: 五叶小铺售后TG通知频道 @hkaa0_shop
 layout:
   title:
     visible: true
