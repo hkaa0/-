@@ -17,7 +17,7 @@
   * [Page 8](no/page-8.md)
   * [Page 7](no/page-7.md)
   * [Page 6](no/page-6.md)
-  * [Page 5](no/page-5.md)
+  * [Telegram账号快速解封申诉方法](no/telegram-zhang-hao-kuai-su-jie-feng-shen-su-fang-fa.md)
   * [TG-Telegram专属内置代理手动配置教程](no/tgtelegram-zhuan-shu-nei-zhi-dai-li-shou-dong-pei-zhi-jiao-cheng.md)
   * [TG-Telegram 纸飞机电报登录教程](no/page.md)
   * [TG-Telegram API接码链接注册教程](no/tgtelegram-api-jie-ma-lian-jie-zhu-ce-jiao-cheng.md)
