@@ -24,11 +24,11 @@
 
 **1.复制卡密（代理链接）**
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 **2.TG主页面点击左上角打开菜单栏**
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 **3.进入收藏夹**
 
