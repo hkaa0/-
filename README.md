@@ -15,4 +15,4 @@ layout:
 
 # 🍁 帮助中心
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption><p><a href="https://hkaa0.shop">五叶小铺</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption><p><a href="https://hkaa0.shop">五叶小铺</a></p></figcaption></figure>
