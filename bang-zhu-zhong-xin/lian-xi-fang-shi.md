@@ -1,4 +1,4 @@
-# ☎ 联系方式
+# ☎️ 联系方式
 
 **售前咨询：**[**@wuyexp**](https://t.mewuyexp)
 
@@ -9,10 +9,4 @@
 **不回复说明没看到消息  只要看到就会回复** &#x20;
 
 
-
-**比较急的话最好 Email 找我**&#x20;
-
-**Email:** [**wuyexp@163.com**](<mailto:wuyexp@163.com >)
-
-**Q Q:** [**290555328**](https://wpa.qq.com/msgrd?v=1\&uin=290555328) **最近风控中有事TG或Email联系！**
 
