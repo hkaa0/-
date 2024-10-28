@@ -1,8 +1,6 @@
 # ☎️ 联系方式
 
-**售前咨询：**[**@wuyexp**](https://t.mewuyexp)
-
-**售后专属** [**@KFSH0\_bot**](https://t.me/KFSH0\_bot)
+<mark style="color:red;">**无引流电报客服:https://t.me/TG\_wuyee**</mark>
 
 **如果不能及时回复不要急  耐心等待** &#x20;
 
